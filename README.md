@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AndreiBiban
-- 👀 I’m interested in C# ,net core 6
-- 🌱 I’m currently learning .net Core 6, Rust, Android
-- 💞️ I’m looking to collaborate on: porting programs to .net Core 6
+- 👀 I’m interested in C# , .Net technologies
+- 🌱 I’m currently learning .net Core 7, Rust, Android
+- 💞️ I’m looking to collaborate on: porting programs to .net Core 7
 - 📫 How to reach me: andreibiban@gmail.com
 
 <!---
