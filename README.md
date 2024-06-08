@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AndreiBiban
 - 👀 I’m interested in C# , .Net technologies
-- 🌱 I’m currently learning .net 8, Rust, Android
-- 💞️ I’m looking to collaborate on: porting programs to .net 8
+- 🌱 I’m currently learning .Net8, Android, Rust 
+- 💞️ I’m looking to collaborate on: porting programs to .Net8
 - 📫 How to reach me: andreibiban@gmail.com
 
 <!---
